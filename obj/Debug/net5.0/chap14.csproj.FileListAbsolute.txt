@@ -1,0 +1,16 @@
+C:\Users\mel\workspace\server-side\book-1\chap14\bin\Debug\net5.0\chap14.exe
+C:\Users\mel\workspace\server-side\book-1\chap14\bin\Debug\net5.0\chap14.deps.json
+C:\Users\mel\workspace\server-side\book-1\chap14\bin\Debug\net5.0\chap14.runtimeconfig.json
+C:\Users\mel\workspace\server-side\book-1\chap14\bin\Debug\net5.0\chap14.runtimeconfig.dev.json
+C:\Users\mel\workspace\server-side\book-1\chap14\bin\Debug\net5.0\chap14.dll
+C:\Users\mel\workspace\server-side\book-1\chap14\bin\Debug\net5.0\ref\chap14.dll
+C:\Users\mel\workspace\server-side\book-1\chap14\bin\Debug\net5.0\chap14.pdb
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.csproj.AssemblyReference.cache
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.AssemblyInfoInputs.cache
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.AssemblyInfo.cs
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.csproj.CoreCompileInputs.cache
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.dll
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\ref\chap14.dll
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.pdb
+C:\Users\mel\workspace\server-side\book-1\chap14\obj\Debug\net5.0\chap14.genruntimeconfig.cache
